@@ -44,7 +44,7 @@
 ![Jenkins_run](images/jenkins%20api.png)
 
 
-### <img width="3%" title="Allure Report" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4"> Allure report
+### <img width="3%" title="Allure Report" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4"> [Allure report](https://jenkins.autotests.cloud/job/qa_guru_diplom_api_Nikita/2/allure/)
 ##### After passing the tests, the results can be viewed in the Allure report.
 
 ![Overview](images/allure%20report.png)
