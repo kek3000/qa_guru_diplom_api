@@ -74,7 +74,7 @@ https://selenoid.autotests.cloud/video/88edc5171ccaae2a7e01d5cb4605f4f8.mp4
 
 ![tests](images/Testops_cases_api.png)
 
-### <img width="3%" title="Jira" src="https://www.svgrepo.com/show/353935/jira.svg"> [Jira integration](https://jira.autotests.cloud/browse/HOMEWORK-751)
+### <img width="3%" title="Jira" src="https://www.svgrepo.com/show/353935/jira.svg"> [Jira integration](https://jira.autotests.cloud/browse/HOMEWORK-798)
 ##### By setting up integration with Jira through Allure TestOps, you can forward the result of passing tests and a list of test cases from Allure to a ticket
 
 ![Jira](images/jira%20api.png)
